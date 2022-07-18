@@ -2,7 +2,7 @@ import {CommonModule} from '@angular/common';
 import {NgModule} from '@angular/core';
 import {FormsModule, ReactiveFormsModule} from '@angular/forms';
 import {RouterModule} from '@angular/router';
-import {generateRoutes, TuiAddonDocModule} from '@taiga-ui/addon-doc';
+import {TuiAddonDocModule, tuiGenerateRoutes} from '@taiga-ui/addon-doc';
 import {TuiEditorNewModule, TuiEditorSocketModule} from '@taiga-ui/addon-editor';
 import {
     TuiButtonModule,
@@ -19,6 +19,8 @@ import {ExampleSmilesToolModule} from './examples/2/smiles-tool/smiles-tool.modu
 import {TuiEditorNewExample3} from './examples/3';
 import {TuiEditorNewExample4} from './examples/4';
 import {ImagePreviewExampleModule} from './examples/4/image-preview/image-preview.module';
+import {TuiEditorNewExample5} from './examples/5';
+import {TuiEditorNewExample6} from './examples/6';
 
 @NgModule({
     imports: [
@@ -35,7 +37,7 @@ import {ImagePreviewExampleModule} from './examples/4/image-preview/image-previe
         TuiSvgModule,
         ExampleSmilesToolModule,
         ImagePreviewExampleModule,
-        RouterModule.forChild(generateRoutes(ExampleEditorNewComponent)),
+        RouterModule.forChild(tuiGenerateRoutes(ExampleEditorNewComponent)),
     ],
     declarations: [
         ExampleEditorNewComponent,
@@ -43,6 +45,8 @@ import {ImagePreviewExampleModule} from './examples/4/image-preview/image-previe
         TuiEditorNewExample2,
         TuiEditorNewExample3,
         TuiEditorNewExample4,
+        TuiEditorNewExample5,
+        TuiEditorNewExample6,
     ],
     exports: [ExampleEditorNewComponent],
 })

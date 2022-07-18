@@ -86,6 +86,7 @@ class TuiNodeView extends NodeView<
             this.contentDOMElement.style.whiteSpace = 'inherit';
             this.renderer.detectChanges();
         }
+
     }
 
     get dom(): HTMLElement {

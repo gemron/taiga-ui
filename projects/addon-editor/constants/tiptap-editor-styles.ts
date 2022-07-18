@@ -288,4 +288,5 @@ export const tiptapEditorStyles = `
    transform: rotate(225deg);
    top: 1.75rem;
 }
+
 `;
