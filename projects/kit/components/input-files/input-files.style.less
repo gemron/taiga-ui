@@ -41,7 +41,8 @@ tui-input-files {
         border: 1px solid;
     }
 
-    &[data-state='hovered'] {
+    &:hover:not(._no-hover),
+    &[data-state='hover'] {
         background: var(--tui-secondary);
 
         &:after {
@@ -49,7 +50,8 @@ tui-input-files {
         }
     }
 
-    &[data-state='pressed'] {
+    &:active:not(._no-active),
+    &[data-state='active'] {
         background: var(--tui-secondary-hover);
     }
 
@@ -75,7 +77,9 @@ tui-input-files {
             color: var(--tui-text-01-night);
         }
 
-        &[data-state='hovered'] {
+        /* stylelint-disable selector-max-specificity */
+        &:hover:not(._no-hover),
+        &[data-state='hover'] {
             background: var(--tui-clear-inverse-hover);
 
             &:after {
@@ -83,7 +87,8 @@ tui-input-files {
             }
         }
 
-        &[data-state='pressed'] {
+        &:active:not(._no-active),
+        &[data-state='active'] {
             background: var(--tui-clear-inverse-active);
 
             &:after {
@@ -103,7 +108,8 @@ tui-input-files {
             color: var(--tui-text-01);
         }
 
-        &[data-state='hovered'] {
+        &:hover:not(._no-hover),
+        &[data-state='hover'] {
             background: var(--tui-clear-hover);
 
             &:after {
@@ -111,7 +117,8 @@ tui-input-files {
             }
         }
 
-        &[data-state='pressed'] {
+        &:active:not(._no-active),
+        &[data-state='active'] {
             background: var(--tui-clear-active);
 
             &:after {

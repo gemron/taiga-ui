@@ -29,7 +29,7 @@ import {
     HINT_CONTROLLER_PROVIDER,
     TEXTFIELD_CONTROLLER_PROVIDER,
     TUI_TEXTFIELD_WATCHED_CONTROLLER,
-    TuiDecimalT,
+    TuiDecimal,
     TuiSizeL,
     TuiTextfieldController,
 } from '@taiga-ui/core';
@@ -173,7 +173,7 @@ export class TuiInputSliderComponent
         return getFractionPartPadded(this.quantum).length;
     }
 
-    get decimal(): TuiDecimalT {
+    get decimal(): TuiDecimal {
         return this.precision ? 'not-zero' : 'never';
     }
 

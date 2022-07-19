@@ -343,4 +343,9 @@ export const TEMPLATE_COMMENTS = [
         comment:
             'See examples how create labels for ticks without this property (outside the component): https://taiga-ui.dev/components/range#segments',
     },
+    {
+        tag: 'tui-ring-chart',
+        withAttr: 'content',
+        comment: 'Input "content" has been deleted, use ng-content instead',
+    },
 ] as const;
