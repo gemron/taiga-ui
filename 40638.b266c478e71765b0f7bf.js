@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[40638],{40638:t=>{t.exports='export default "```html\\n<tui-scrollbar>\\n  <header (tuiElasticSticky)=\\"onElastic($event)\\">I\'m sticky</header>\\n  ...\\n</tui-scrollbar>\\n```\\n";'}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[81305],{81305:e=>{e.exports='export default "```html\\nFormatted number: {{index | tuiFormatNumber}}\\n```\\n";'}}]);

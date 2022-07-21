@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[50956],{50956:e=>{e.exports='export default "```html\\n<ng-template #tableBarTemplate><p>Template</p></ng-template>\\n```\\n";'}}]);

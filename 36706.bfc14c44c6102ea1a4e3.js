@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[36706],{36706:n=>{n.exports='export default "```html\\n<form [formGroup]=\\"testForm\\">\\n  <tui-input-phone-international\\n    formControlName=\\"testValue\\"\\n    [countries]=\\"countries\\"\\n  ></tui-input-phone-international>\\n</form>\\n```\\n";'}}]);

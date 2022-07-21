@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[10734],{10734:a=>{a.exports='export default "<tui-bar class=\\"bar\\"></tui-bar>\\n";'}}]);

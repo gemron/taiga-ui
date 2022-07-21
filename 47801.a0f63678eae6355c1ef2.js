@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[47801],{47801:(e,t,n)=>{n.r(t),n.d(t,{default:()=>u});const u='```html\n<tui-theme-night></tui-theme-night>\n<tui-root tuiMode="onDark">...</tui-root>\n```\n'}}]);

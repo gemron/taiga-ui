@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[83510],{83510:t=>{t.exports='export default "<tui-tag [value]=\\"tag\\"></tui-tag>\\n";'}}]);

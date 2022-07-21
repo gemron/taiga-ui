@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[81090],{81090:t=>{t.exports='export default "```html\\n<form [formGroup]=\\"testForm\\">\\n  <tui-input-copy formControlName=\\"testValue\\">Type a value</tui-input-copy>\\n</form>\\n```\\n";'}}]);

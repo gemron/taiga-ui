@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[84119],{84119:(o,n,t)=>{t.r(n),t.d(n,{default:()=>i});const i='<p i18n>Modified icon</p>\n<tui-tooltip content="Oh, snap!"></tui-tooltip>\n'}}]);

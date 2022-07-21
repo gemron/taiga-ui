@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[33391],{33391:t=>{t.exports='export default "```html\\n<tui-input-card-grouped formControlName=\\"card\\"></tui-input-card-grouped>\\n```\\n";'}}]);

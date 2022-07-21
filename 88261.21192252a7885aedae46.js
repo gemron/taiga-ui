@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[88261],{88261:l=>{l.exports='export default "```html\\n<tui-scrollbar>\\n  <ul>\\n    <li>Item 1</li>\\n    <li>Item 2</li>\\n    <li>Item 3</li>\\n  </ul>\\n</tui-scrollbar>\\n```\\n";'}}]);

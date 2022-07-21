@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[23202],{23202:t=>{t.exports='export default "<div\\n    class=\\"wrapper\\"\\n    [tuiHintContent]=\\"text\\"\\n>\\n    <tui-primitive-textfield [(value)]=\\"text\\">Content</tui-primitive-textfield>\\n</div>\\n";'}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[18933],{18933:n=>{n.exports="export default \"```ts\\nimport {TuiRippleModule} from '@taiga-ui/addon-mobile';\\n\\n// ...\\n\\n@NgModule({\\n  imports: [\\n    // ...\\n    TuiRippleModule,\\n  ],\\n  // ...\\n})\\nexport class MyModule {}\\n```\\n\";"}}]);

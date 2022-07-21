@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[68629],{68629:e=>{e.exports='export default "```html\\n<tui-line-days-chart\\n  [y]=\\"0\\"\\n  [height]=\\"100\\"\\n  [value]=\\"value\\"\\n></tui-line-days-chart>\\n```\\n";'}}]);

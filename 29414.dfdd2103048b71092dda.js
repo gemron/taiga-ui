@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[29414],{29414:e=>{e.exports='export default "<p>Transform {{ numbers }} into {{ numbers | tuiMapper: mapper:3 }}</p>\\n";'}}]);

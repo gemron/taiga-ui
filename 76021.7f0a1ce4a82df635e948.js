@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[76021],{76021:n=>{n.exports='export default "```ts\\n// ...\\n\\n@NgModule({\\n  // ...\\n  entryComponents: [MyDialogComponent],\\n})\\nexport class MyModule {}\\n```\\n";'}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[3801],{3801:t=>{t.exports='export default "```html\\n<ng-container [formGroup]=\\"testForm\\">\\n  <tui-input-count formControlName=\\"testValue\\"></tui-input-count>\\n</ng-container>\\n```\\n";'}}]);

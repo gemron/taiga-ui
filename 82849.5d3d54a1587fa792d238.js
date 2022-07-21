@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[82849],{82849:n=>{n.exports="export default \"```ts\\nimport {TuiLineDaysChartModule} from '@taiga-ui/addon-charts';\\n\\n// ...\\n\\n@NgModule({\\n  imports: [\\n    // ...\\n    TuiLineDaysChartModule,\\n  ],\\n  // ...\\n})\\nexport class MyModule {}\\n```\\n\";"}}]);

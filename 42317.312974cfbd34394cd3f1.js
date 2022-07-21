@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[42317],{42317:r=>{r.exports='export default "```html\\n// ...\\n<tui-input [formControl]=\\"user\\">User</tui-input>\\n<tui-error\\n  [formControl]=\\"user\\"\\n  [error]=\\"[] | tuiFieldError | async\\"\\n></tui-error>\\n// ...\\n```\\n";'}}]);

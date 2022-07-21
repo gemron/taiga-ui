@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[95070],{95070:e=>{e.exports='export default "<tui-marker-icon src=\\"tuiIconBellLarge\\"></tui-marker-icon>\\n";'}}]);

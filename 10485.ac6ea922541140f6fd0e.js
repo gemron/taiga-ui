@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[10485],{10485:n=>{n.exports="export default \"```ts\\nimport '@angular/localize/init';\\nimport 'zone.js/dist/zone';\\n```\\n\";"}}]);

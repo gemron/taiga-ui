@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[54339],{54339:n=>{n.exports="export default \"```ts\\nimport {TuiCalendarModule} from '@taiga-ui/core';\\n\\n// ...\\n\\n@NgModule({\\n  imports: [\\n    // ...\\n    TuiCalendarModule,\\n  ],\\n  // ...\\n})\\nexport class MyModule {}\\n```\\n\";"}}]);

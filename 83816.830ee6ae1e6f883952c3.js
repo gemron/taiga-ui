@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[83816],{83816:e=>{e.exports='export default "<tui-toggle [(ngModel)]=\\"enabled\\">Show</tui-toggle>\\n<tui-error [error]=\\"computedError\\"></tui-error>\\n";'}}]);

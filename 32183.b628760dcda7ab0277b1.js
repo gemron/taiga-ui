@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[32183],{32183:e=>{e.exports='export default "<label>Your browser is:</label>\\n\\n<p>{{ aboutMyBrowser }}</p>\\n";'}}]);

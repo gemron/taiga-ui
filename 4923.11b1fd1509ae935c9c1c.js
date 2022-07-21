@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[4923],{4923:n=>{n.exports='export default "```html\\n<tui-money\\n  [value]=\\"value\\"\\n  [decimal]=\\"decimal\\"\\n  [currency]=\\"currency\\"\\n  [sign]=\\"sign\\"\\n  [colored]=\\"colored\\"\\n></tui-money>\\n```\\n";'}}]);

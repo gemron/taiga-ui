@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[55427],{55427:t=>{t.exports='export default "<tui-table-pagination\\n    [total]=\\"total\\"\\n    [items]=\\"sizeOptions\\"\\n></tui-table-pagination>\\n";'}}]);

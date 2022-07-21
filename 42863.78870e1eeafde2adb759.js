@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[42863],{42863:n=>{n.exports="export default \"```ts\\nimport {TuiCalendarRangeModule} from '@taiga-ui/kit';\\n\\n// ...\\n\\n@NgModule({\\n  imports: [\\n    // ...\\n    TuiCalendarRangeModule,\\n  ],\\n  // ...\\n})\\nexport class MyModule {}\\n```\\n\";"}}]);

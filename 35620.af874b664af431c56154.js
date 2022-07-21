@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[35620],{35620:t=>{t.exports='export default "```html\\n<tui-input\\n  formControlName=\\"control\\"\\n  [tuiValidator]=\\"validator\\"\\n></tui-input>\\n```\\n";'}}]);

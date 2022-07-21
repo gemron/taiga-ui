@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[62042],{62042:a=>{a.exports="export default \"```ts\\nimport {clamp} from '@taiga-ui/cdk';\\n\\n// ...\\nclamped = clamp(value, min, max);\\n// ...\\n```\\n\";"}}]);

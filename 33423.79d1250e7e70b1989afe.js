@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[33423],{33423:a=>{a.exports='export default "<label\\n    tuiLabel\\n    label=\\"Taiga\\"\\n>\\n    Angular Component Library\\n</label>\\n";'}}]);

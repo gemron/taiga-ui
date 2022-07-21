@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[77115],{77115:(o,e,t)=>{t.r(e),t.d(e,{default:()=>n});const n='```html\n<tui-loader [showLoader]="loader">Let off some steam, Bennett</tui-loader>\n```\n'}}]);

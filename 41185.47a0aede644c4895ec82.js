@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[41185],{41185:e=>{e.exports='export default "```html\\n<tui-calendar></tui-calendar>\\n```\\n";'}}]);

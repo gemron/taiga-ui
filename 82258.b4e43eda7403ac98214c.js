@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[82258],{82258:e=>{e.exports=".group {\n  max-width: 30.25rem;\n}\n"}}]);

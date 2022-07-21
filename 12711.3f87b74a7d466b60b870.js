@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[12711],{12711:n=>{n.exports='export default "<ng-container #viewContainer></ng-container>\\n";'}}]);

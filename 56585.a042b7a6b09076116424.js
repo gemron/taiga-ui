@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[56585],{56585:e=>{e.exports='export default "```html\\n<tui-legend-item [value]=\\"value\\">Content</tui-legend-item>\\n```\\n";'}}]);

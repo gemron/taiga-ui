@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[14665],{14665:e=>{e.exports="export default \"```ts\\nimport {TuiLoaderModule} from '@taiga-ui/core';\\n\\n@NgModule({\\n  imports: [\\n    // ...\\n    TuiLoaderModule,\\n  ],\\n})\\nexport class MyModule {}\\n```\\n\";"}}]);

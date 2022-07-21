@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[26696],{26696:t=>{t.exports='export default "```html\\n<form [formGroup]=\\"testForm\\">\\n  <tui-input-date formControlName=\\"testValue\\">\\n    Choose a date\\n    <input tuiTextfield />\\n  </tui-input-date>\\n</form>\\n```\\n";'}}]);

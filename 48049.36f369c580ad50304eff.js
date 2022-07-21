@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[48049],{48049:n=>{n.exports='export default "```html\\n<div\\n  tuiDropdownSelection\\n  [tuiDropdownContent]=\\"content\\"\\n>\\n  Host element\\n</div>\\n\\n<ng-template #content>Dropdown content</ng-template>\\n```\\n";'}}]);

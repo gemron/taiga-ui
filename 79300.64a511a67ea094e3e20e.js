@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[79300],{79300:s=>{s.exports='export default "<progress\\n    tuiProgressBar\\n    max=\\"100\\"\\n    class=\\"progress\\"\\n    [value]=\\"value$ | async\\"\\n></progress>\\n";'}}]);

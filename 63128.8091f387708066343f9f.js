@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[63128],{63128:t=>{t.exports='export default "<button\\n    tuiButton\\n    type=\\"button\\"\\n    size=\\"m\\"\\n    (click)=\\"showNotification()\\"\\n>\\n    Show\\n</button>\\n";'}}]);

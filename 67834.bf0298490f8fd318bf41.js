@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[67834],{67834:t=>{t.exports='export default "<tui-input-tag\\n    class=\\"b-form\\"\\n    [tuiTextfieldLabelOutside]=\\"true\\"\\n    [formControl]=\\"control\\"\\n>\\n    I\'m a\\n    <i>placeholder</i>\\n</tui-input-tag>\\n";'}}]);

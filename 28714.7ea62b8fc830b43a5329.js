@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[28714],{28714:n=>{n.exports='export default "```html\\n<img\\n  src=\\"myImage.jpg\\"\\n  height=\\"200\\"\\n  width=\\"300\\"\\n  loading=\\"lazy\\"\\n/>\\n```\\n";'}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[33322],{33322:n=>{n.exports='export default "```text\\nopen<O>(\\n  content: PolymorpheusContent<TuiDialogContext<O, I>,\\n  options: Partial<TuiDialogOptions<I>>,\\n): Observable<O>;\\n```\\n";'}}]);

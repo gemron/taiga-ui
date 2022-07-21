@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[52741],{52741:e=>{e.exports='export default "```html\\n{{item | tuiMapper: mapper: someArg}}\\n```\\n";'}}]);

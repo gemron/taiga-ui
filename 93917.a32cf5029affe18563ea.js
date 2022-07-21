@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[93917],{93917:o=>{o.exports="export default \"```ts\\nimport {TuiMobileDialogModule} from '@taiga-ui/addon-mobile';\\n\\n@NgModule({\\n  imports: [\\n    // ...\\n    TuiMobileDialogModule,\\n  ],\\n  // ...\\n})\\nexport class AppModule {}\\n```\\n\";"}}]);

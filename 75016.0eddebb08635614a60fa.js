@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[75016],{75016:e=>{e.exports='export default "```html\\n<tui-reorder\\n  [(items)]=\\"items\\"\\n  [(enabled)]=\\"enabled\\"\\n></tui-reorder>\\n```\\n";'}}]);

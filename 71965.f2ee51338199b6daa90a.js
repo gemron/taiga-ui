@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[71965],{71965:n=>{n.exports='export default "<a\\n    tuiLink\\n    routerLink=\\"/components/link\\"\\n>\\n    Link\\n</a>\\n";'}}]);

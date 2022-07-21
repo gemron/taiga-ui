@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[35114],{35114:t=>{t.exports='export default "```html\\n<div (tuiPan)=\\"...\\"></div>\\n```\\n";'}}]);

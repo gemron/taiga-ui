@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[10957],{10957:n=>{n.exports="export default \"```ts\\nimport {TuiLegendItemModule} from '@taiga-ui/addon-charts';\\n\\n// ...\\n\\n@NgModule({\\n  imports: [\\n    // ...\\n    TuiLegendItemModule,\\n  ],\\n  // ...\\n})\\nexport class MyModule {}\\n```\\n\";"}}]);

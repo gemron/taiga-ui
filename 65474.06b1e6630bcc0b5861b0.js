@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[65474],{65474:n=>{n.exports="export default \"```ts\\nimport {TuiBarSetModule} from '@taiga-ui/addon-charts';\\n\\n// ...\\n\\n@NgModule({\\n  imports: [\\n    // ...\\n    TuiBarSetModule,\\n  ],\\n})\\n// ...\\nexport class MyModule {}\\n```\\n\";"}}]);

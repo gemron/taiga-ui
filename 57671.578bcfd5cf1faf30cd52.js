@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[57671],{57671:e=>{e.exports='export default "```html\\n<div tuiMode=\\"onDark\\">...</div>\\n```\\n";'}}]);

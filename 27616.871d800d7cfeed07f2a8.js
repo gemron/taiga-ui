@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[27616],{27616:(t,n,u)=>{u.r(n),u.d(n,{default:()=>i});const i='<tui-input-inline\n    class="input1"\n    [(ngModel)]="count"\n></tui-input-inline>\n'}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[40224],{40224:n=>{n.exports="export default \"```ts\\nimport {getCurrencySymbol} from '@taiga-ui/kit';\\n\\n// ...\\ncurrency = getCurrencySymbol(currency);\\n// ...\\n```\\n\";"}}]);

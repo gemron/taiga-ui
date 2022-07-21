@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[39045],{39045:n=>{n.exports='export default "<tui-range\\n    [formControl]=\\"control\\"\\n    [max]=\\"10\\"\\n    [quantum]=\\"1\\"\\n></tui-range>\\n";'}}]);
