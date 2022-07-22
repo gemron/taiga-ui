@@ -106,4 +106,10 @@ export const MIGRATION_WARNINGS: readonly MigrationWarning[] = [
         moduleSpecifier: '@taiga-ui/core',
         message: 'colorFallback has been deleted in 3.0, please use CSS variables',
     },
+    {
+        name: 'TUI_EDITOR_STYLES',
+        moduleSpecifier: '@taiga-ui/addon-editor',
+        message:
+            'TUI_EDITOR_STYLES has been deleted in 3.0, use global styles if you need to override editor styles',
+    },
 ];
