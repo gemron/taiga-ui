@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[86581],{86581:e=>{e.exports='export default ".t-image-preview {\\n    width: 100%;\\n}\\n";'}}]);

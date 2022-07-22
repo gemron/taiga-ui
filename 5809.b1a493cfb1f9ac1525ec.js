@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[5809],{5809:e=>{e.exports="/**\nTHIS IS A WORKAROUND FOR STACKBLITZ:\nDO NOT REPEAT, read https://taiga-ui.dev/getting-started#less\n */\n@import 'taiga-ui-global.less';\n@import 'theme/variables.less';\n@import 'theme/wrapper.less';\n"}}]);

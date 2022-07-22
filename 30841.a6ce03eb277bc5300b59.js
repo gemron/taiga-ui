@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[30841],{30841:e=>{e.exports='export default "<tui-ring-chart\\n    [value]=\\"value\\"\\n    [(activeItemIndex)]=\\"index\\"\\n>\\n    <tui-money [value]=\\"sum\\"></tui-money>\\n    <div>{{ label }}</div>\\n</tui-ring-chart>\\n";'}}]);

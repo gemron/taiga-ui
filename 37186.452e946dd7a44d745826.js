@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[37186],{37186:n=>{n.exports="@import 'taiga-ui-local';\n\n:host {\n    display: block;\n}\n\n.island {\n    width: 20rem;\n}\n\n.hint {\n    font: var(--tui-font-text-s);\n}\n"}}]);

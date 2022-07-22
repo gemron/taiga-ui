@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[76293],{76293:n=>{n.exports="export default \"@import 'taiga-ui-local';\\n\\n.scroll {\\n    .scrollbar-hidden();\\n    min-height: 64px;\\n    max-height: 200px;\\n}\\n\";"}}]);

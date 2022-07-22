@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[21633],{21633:t=>{t.exports='export default ".input {\\n    width: 20rem;\\n    direction: rtl;\\n    text-align: right;\\n}\\n";'}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[13287],{13287:t=>{t.exports='export default "```html\\n<div tuiPointerHint>Block with pointer hint</div>\\n```\\n";'}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[5214],{5214:t=>{t.exports='```html\n<button tuiDescribedBy="id">...</button>\n```\n'}}]);

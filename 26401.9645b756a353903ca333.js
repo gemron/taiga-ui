@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[26401],{26401:t=>{t.exports='export default "<p i18n>Modified icon</p>\\n<tui-tooltip content=\\"Oh, snap!\\"></tui-tooltip>\\n";'}}]);

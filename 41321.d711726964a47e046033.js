@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[41321],{41321:e=>{e.exports='export default "```html\\n<tui-pie-chart [value]=\\"value\\"></tui-pie-chart>\\n```\\n";'}}]);

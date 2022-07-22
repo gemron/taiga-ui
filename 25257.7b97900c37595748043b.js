@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[25257],{25257:n=>{n.exports='export default "```html\\n<tui-input-inline></tui-input-inline>\\n```\\n";'}}]);

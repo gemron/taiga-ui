@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[49967],{49967:t=>{t.exports='```html\n<div\n  tuiHintContent="Hello"\n  class="wrapper"\n>\n  <tui-primitive-textfield>...</tui-primitive-textfield>\n</div>\n```\n'}}]);

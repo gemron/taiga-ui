@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[33568],{33568:e=>{e.exports="export default \"[tuiWrapper][data-appearance='none'] {\\n    &:after {\\n        border: none;\\n    }\\n}\\n\";"}}]);

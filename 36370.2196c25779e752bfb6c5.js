@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[36370],{36370:n=>{n.exports='<button\n    tuiIconButton\n    icon="tuiIconTrashLarge"\n    size="m"\n    shape="rounded"\n    appearance="secondary"\n    tuiDescribedBy="uniqId"\n    tuiHint="Delete"\n    tuiHintId="uniqId"\n></button>\n'}}]);

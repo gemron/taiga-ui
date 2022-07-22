@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[14031],{14031:n=>{n.exports=".editor {\n    padding: 1em 2em;\n    outline: none;\n\n    &_active {\n        box-shadow: 0 0 0 2px var(--tui-focus);\n    }\n}\n"}}]);

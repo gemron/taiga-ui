@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[83309],{83309:e=>{e.exports='<tui-slider\n    [formControl]="testValue"\n    [keySteps]="keySteps"\n    [min]="5000"\n    [max]="1000000"\n    [segments]="3"\n    [steps]="3"\n></tui-slider>\n'}}]);

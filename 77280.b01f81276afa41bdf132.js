@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[77280],{77280:e=>{e.exports='export default ".axes {\\n    height: 12.5rem;\\n    width: 25rem;\\n    color: #bc71c9;\\n}\\n";'}}]);
