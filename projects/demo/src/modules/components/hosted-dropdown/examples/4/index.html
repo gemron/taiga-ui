@@ -23,4 +23,36 @@
         </ng-template>
     </tui-hosted-dropdown>
     <button tuiTab>Another tab</button>
+    <button
+        tuiTab
+        style="--tui-tab-margin: 5px"
+    >
+        <tui-hosted-dropdown
+            tuiDropdownAlign="right"
+            tuiDropdownHover
+            [content]="settingsDropdown"
+            [open]="!!(settingsDropdownOpened$ | async)"
+            (openChange)="handleFiltersDropdownOpenedChange($event)"
+        >
+            <button
+                tuiIconButton
+                size="m"
+                appearance="icon"
+                icon="tuiIconSettingsLarge"
+            ></button>
+        </tui-hosted-dropdown>
+
+        <ng-template #settingsDropdown>
+            <div
+                class="settings"
+                [formGroup]="testForm"
+            >
+                <tui-toggle
+                    formControlName="option"
+                    size="l"
+                ></tui-toggle>
+                Turn option
+            </div>
+        </ng-template>
+    </button>
 </nav>
